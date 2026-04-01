@@ -5,5 +5,3 @@ kubectl get rc -o wide
 kubectl describe rc
 kubectl apply -f rc.yml
 kubectl get rc
-kubectl get pods
-Kubectl delete rc/rcname
